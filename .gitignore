@@ -13,3 +13,4 @@ pkg/
 .idea/
 Gemfile.lock
 tmp/
+**.un~
